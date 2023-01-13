@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8B074DB-0C7C-4221-B3E9-D8793440A8A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prueba_sprites</RootNamespace>
+    <AssemblyName>prueba_sprites</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="end.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="end.Designer.cs">
+      <DependentUpon>end.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="intro.Designer.cs">
+      <DependentUpon>intro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="level2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="level2.Designer.cs">
+      <DependentUpon>level2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="end.resx">
+      <DependentUpon>end.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="intro.resx">
+      <DependentUpon>intro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="level2.resx">
+      <DependentUpon>level2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correr8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Correr2_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Correr2_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Correr2_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Correr2_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Salto2_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abajo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abajo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abajo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abajo4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sonic_Dormir_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2019-11-27 at 1.21.20 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2019-11-27 at 1.41.40 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbk6oa8-e83d1873-e9be-483d-b583-d730a22ff22e.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1574994450949.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55647612473e56 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonicA_Transformacion_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1574631029696.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1574993854299.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\introo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\end.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\65-650513_start-button-for-game-parallel-hd-png-download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\source.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

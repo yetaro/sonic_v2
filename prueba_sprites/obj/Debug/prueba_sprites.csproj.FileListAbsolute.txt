@@ -1,0 +1,107 @@
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\prueba_sprites\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\prueba_sprites\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\prueba_sprites\prueba_sprites\obj\Debug\prueba_sprites.Form1.resources
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\prueba_sprites\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\prueba_sprites\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\bin\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\bin\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\obj\Debug\prueba_sprites.Form1.resources
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\obj\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.2\prueba_sprites\obj\Debug\prueba_sprites.pdb
+E:\prueba_sprites.3\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+E:\prueba_sprites.3\prueba_sprites\obj\Debug\prueba_sprites.exe
+E:\prueba_sprites.3\prueba_sprites\obj\Debug\prueba_sprites.pdb
+E:\prueba_sprites.3\prueba_sprites\bin\Debug\prueba_sprites.exe
+E:\prueba_sprites.3\prueba_sprites\bin\Debug\prueba_sprites.pdb
+E:\prueba_sprites.3\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+E:\prueba_sprites.3\prueba_sprites\obj\Debug\prueba_sprites.Form1.resources
+E:\prueba_sprites.3\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+E:\prueba_sprites.3\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.Form1.resources
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+C:\Users\erik__000\Desktop\prueba_sprites.5_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.exe
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.pdb
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.exe
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.pdb
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.6_salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.exe
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.pdb
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.exe
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\bin\Debug\prueba_sprites.pdb
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\prueba_sprites.7salto_gravedad\prueba_sprites\obj\Debug\prueba_sprites.pantalla.resources
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\obj\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\obj\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\bin\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\bin\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\obj\Debug\prueba_sprites.pantalla.resources
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\bin\Debug\prueba_sprites.exe
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\bin\Debug\prueba_sprites.pdb
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.pantalla.resources
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+C:\Users\erik__000\Desktop\prueba_sprites.7salto_gravedad - copia2\prueba_sprites\obj\Debug\prueba_sprites.level2.resources
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.exe
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.pdb
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\bin\Debug\prueba_sprites.exe
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\bin\Debug\prueba_sprites.pdb
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.pantalla.resources
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.level2.resources
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.intro.resources
+\\vmware-host\Shared Folders\Escritorio\sonic_final-20191202T132755Z-001\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.end.resources
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\bin\Debug\prueba_sprites.exe
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\bin\Debug\prueba_sprites.pdb
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.csproj.AssemblyReference.cache
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.end.resources
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.pantalla.resources
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.intro.resources
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.level2.resources
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.cache
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.csproj.CoreCompileInputs.cache
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.exe
+C:\Users\JLML0\Desktop\sonic_final\prueba_sprites\obj\Debug\prueba_sprites.pdb
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\bin\Debug\prueba_sprites.exe.config
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\bin\Debug\prueba_sprites.exe
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\bin\Debug\prueba_sprites.pdb
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.csproj.AssemblyReference.cache
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.end.resources
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.pantalla.resources
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.intro.resources
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.level2.resources
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.Properties.Resources.resources
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.csproj.GenerateResource.cache
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.csproj.CoreCompileInputs.cache
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.exe
+C:\Users\JLML0\OneDrive\Desktop\git\sonic_v2\prueba_sprites\obj\Debug\prueba_sprites.pdb
